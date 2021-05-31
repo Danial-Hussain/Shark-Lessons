@@ -1,5 +1,8 @@
 # Shark-Lessons
 Teaching sharks to swim in circles with genetic algorithms :shark:
+
+![alt text](sharks.jpg)
+
 ### Results:
 - ***Epoch 0***:   Maximum Fitness = 5  | Average Fitness = 0.8
   
